@@ -24,8 +24,8 @@
 
 ### Stats:
 <div style="display: flex;" align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aalcara&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gothan" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&hide=roof,pearl&theme=gothan&hide_border=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aalcara&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gotham" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&hide=roof,pearl&theme=gotham&hide_border=true" />
 </div>
 
 ### 📫 How to reach me:
