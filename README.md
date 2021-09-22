@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-#### About me
+### About me
 
 - I have a degree in Civil Engineering.
 - Since January 2021 I am learning how to be a **Human Coder** at [**42 São Paulo**](https://www.42sp.org.br/).
@@ -9,7 +9,7 @@
 
 ---
 
-#### :wrench: Toolbox
+### :wrench: Toolbox
 
 ###### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -23,13 +23,13 @@
 
 ---
 
-#### :books: Learning
+### :books: Learning
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ---
 
-#### :bar_chart: Stats:
+### :bar_chart: Stats:
 <div style="display: flex;" align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aalcara&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gotham" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&hide=roff,perl&theme=gotham&hide_border=true" />
