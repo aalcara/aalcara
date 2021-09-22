@@ -24,8 +24,7 @@
 
 ### Stats
 
-[![aalcara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalcara&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
+[![aalcara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalcara&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&layout=compact&theme=gotham)](https://github.com/aalcara)
 
 ### 📫 How to reach me:
 
