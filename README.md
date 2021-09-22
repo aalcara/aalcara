@@ -22,9 +22,11 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-### Stats
-
-[![aalcara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalcara&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&layout=compact&theme=gotham)](https://github.com/aalcara)
+### Stats:
+<div style="display: flex;" align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aalcara&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gothan" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&theme=gothan&hide_border=true" />
+</div>
 
 ### 📫 How to reach me:
 
