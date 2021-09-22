@@ -1,11 +1,15 @@
 ## Hi there! 👋
 
+---
+
 ### About me
 
 - I have a degree in Civil Engineering.
-- Since January 2021 I am learning how to be a **Human Coder** at [**42 São Paulo**](https://www.42sp.org.br/)
+- Since January 2021 I am learning how to be a **Human Coder** at [**42 São Paulo**](https://www.42sp.org.br/).
   - Soon I will include a link to show my progress.
 - Developing an API to accounting reconciliation for 42 Labs. *Soon more information.*
+
+---
 
 ### :wrench: Toolbox
 
@@ -18,15 +22,21 @@
 ##### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+-
+
 ### :books: Learning
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
+---
+
 ### Stats:
 <div style="display: flex;" align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=aalcara&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=gotham" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&hide=roff,pearl&theme=gotham&hide_border=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalcara&langs_count=15&layout=compact&hide=roff,perl&theme=gotham&hide_border=true" />
 </div>
+
+---
 
 ### 📫 How to reach me:
 
