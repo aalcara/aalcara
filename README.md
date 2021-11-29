@@ -3,7 +3,6 @@
 ### About me
 
 - Since January 2021 I am learning how to be a **Human Coder** at [**42 São Paulo**](https://www.42sp.org.br/).
-- Developing an API to accounting reconciliation for 42 Labs. *Soon more information.*
 
 ##
 
